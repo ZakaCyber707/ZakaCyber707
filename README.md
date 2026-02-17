@@ -66,6 +66,32 @@
 </p>
 
 ---
+---
+
+# 📊 [GitHub_Analytics]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakaCyber707&show_icons=true&theme=blood&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaCyber707&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaCyber707&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 [Contribution_Graph]
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakaCyber707&theme=redical"/>
+</p>
+
+---
+
+### 🐍 [Contribution_Grid]
+<p align="center">
+  <img src="https://github.com/ZakaCyber707/ZakaCyber707/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+---
 
 ### 🐍 [Contribution_Grid]
 <p align="center">
