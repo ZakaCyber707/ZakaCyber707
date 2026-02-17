@@ -93,7 +93,4 @@
 </p>
 ---
 
-### 🐍 [Contribution_Grid]
-<p align="center">
-  <img src="https://github.com/ZakaCyber707/ZakaCyber707/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
