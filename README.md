@@ -23,24 +23,31 @@
 
 ---
 
-### ⚡ [Skills_&_Proficiencies]
-*Technical expertise and tools verified through professional practice.*
+<h2>⚡ [Skills_&_Proficiencies]</h2>
+Technical expertise and tools verified through professional practice.
 
-- **Cybersecurity:** `Vulnerability Assessment` `Incident Response` `Network Defense` `Kali Linux`
-- **Networking:** `TCP/IP` `Cisco Packet Tracer` `Firewalls` `VPNs` `DNS/DHCP Security`
-- **Operating Systems:** `Linux Administration` `Windows Security` `OS Architecture`
-- **Programming:** `Python (Automation)` `Advanced C++ (OOP)`  `HTML/CSS`
+🛡️ Cybersecurity
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-FF3131?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Incident%20Response-FF3131?style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/Network%20Defense-FF3131?style=for-the-badge&logo=guardant&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-FF3131?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+🌐 Networking
+<img src="https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-00D4FF?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Firewalls-00D4FF?style=for-the-badge&logo=palo-alto-networks&logoColor=white" /> <img src="https://img.shields.io/badge/VPNs-00D4FF?style=for-the-badge&logo=expressvpn&logoColor=white" /> <img src="https://img.shields.io/badge/DNS%2FDHCP%20Security-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+💻 Operating Systems
+<img src="https://img.shields.io/badge/Linux%20Administration-39FF14?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows%20Security-39FF14?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/OS%20Architecture-39FF14?style=for-the-badge&logo=micro-strategy&logoColor=white" />
+
+🚀 Programming
+<img src="https://img.shields.io/badge/Python%20(Automation)-FFE100?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Advanced%20C%2B%2B%20(OOP)-FFE100?style=for-the-badge&logo=c%2B%2B&logoColor=black" /> <img src="https://img.shields.io/badge/HTML%2FCSS-FFE100?style=for-the-badge&logo=html5&logoColor=black" />
 
 ---
 
-### 💼 [Professional_Experience]
-- 🛡️ **Cyber Security Intern** | **DevelopersHub Corporation** (Dec 2025 – Present)
-- 📈 **Sales & Marketing Intern** | **DefensiQ** (Nov 2025 – Present)
-- 👨‍🏫 **Computer Instructor** | **Infotech Computer Academy** (Nov 2023 – Present)
+<h2> 💼 [Professional_Experience]</h2>
+<h3> 🛡️ **Cyber Security Intern**<br>  DevelopersHub Corporation (Dec 2025 – Present)<br><br>
+ 📈 **Sales & Marketing Intern** <br> DefensiQ (Nov 2025 – Present)<br><br>
+ 👨‍🏫 **Computer Instructor** <br> Infotech Computer Academy (Nov 2023 – Present)</h3>
 
 ---
 
-### 🏆 [Verified_Credentials]
+### <h2>🏆 [Verified_Credentials]
 - 🛰️ **Junior Cybersecurity Analyst** (Cisco Networking Academy)
 - 🛡️ **Network Defense** (Riphah International University / Cisco)
 - 🐧 **Kali Linux Specialist** (Board Infinity / Coursera)
@@ -49,13 +56,13 @@
 
 ---
 
-### 🤝 [Volunteer_Experience]
+### <h2>🤝 [Volunteer_Experience]
 - 🌏 **Asia Pacific Youth IGF Participant** (Oct 2025)
   - Engaged in internet governance dialogues and youth leadership in the digital space.
 
 ---
 
-### 📬 [For Reach ME Click]
+### <h2>📬 [For Reach ME Click]
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-zaka-illahi-5477b9268/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
